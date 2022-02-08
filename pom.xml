@@ -44,6 +44,9 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<version>2.6.3</version>
+				<configuration>
+					<mainClass>com.project.travelPlanner.acessingdatamysql.TravelPlannerApplication</mainClass>
+				</configuration>
 			</plugin>
 		</plugins>
 	</build>

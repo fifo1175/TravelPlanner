@@ -1,4 +1,4 @@
-package com.project.travelPlanner;
+package com.project.travelPlanner.acessingdatamysql;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
